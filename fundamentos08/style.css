@@ -1,0 +1,57 @@
+.bloco01{
+    height: 15vh;
+    width: 15vw;
+    background-color: #6b9080;
+    margin-top: 30px;
+    border-radius: 20px;
+}
+.bloco-3{
+    gap: 20px;
+    display: flex;
+    margin-top: 30px;
+    .primeiro{
+        height: 15vh;
+        width: 15vw;
+        background-color: #6b9080;
+        border-radius: 20px;
+    }
+    .segundo{
+        height: 15vh;
+        width: 15vw;
+        background-color: #6b9080;
+        border-radius: 20px;
+    }
+    .terceiro{
+        height: 15vh;
+        width: 15vw;
+        background-color: #6b9080;
+        border-radius: 20px;
+    }
+}
+.juntos{
+    margin-top: 30px;
+    .emcima{
+        height: 15vh;
+        width: 15vw;
+        background-color: #6b9080;
+        border-radius: 20px;
+    }
+    .embaixo{
+        margin-top: 30px;
+        height: 15vh;
+        width: 15vw;
+        background-color: #6b9080;
+        border-radius: 20px;
+    }
+}
+.bloco-4{
+    gap: 20px;
+    display: flex;
+    margin-top: 30px;
+    .quatro{
+        height: 15vh;
+        width: 15vw;
+        background-color: #6b9080;
+        border-radius: 20px;
+    }
+}

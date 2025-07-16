@@ -1,0 +1,14 @@
+body{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.quadrado{
+    width: 150px;
+    height: 150px;
+    background-color: red;
+}
+.fileira{
+    display: flex;
+    gap: 20px;
+}

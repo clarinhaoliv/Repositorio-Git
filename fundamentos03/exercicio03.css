@@ -1,0 +1,40 @@
+body{
+    display: flex;
+    gap: 10px;
+
+}
+
+.blocopink{
+   background-color: #cdb4db;
+    height:900px;
+    width: 500px;
+}
+
+.blocorosa {
+    background-color: #ffc8dd;
+    height: 800px;
+    width: 1000px;
+
+
+}
+
+.blocoroxo{
+    background-color: #ffafcc;
+    height: 250px;
+    width: 1000px;
+
+}
+
+div{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+
+}
+.blocovioleta{
+    background-color: #bde0fe;
+    height: 150px;
+    width: 150px;
+    border-radius: 20px;
+}

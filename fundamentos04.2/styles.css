@@ -1,0 +1,73 @@
+body{
+
+    display: flex;
+
+}
+
+.menu{
+    background-color: #bde0fe;
+    color: #0077b6;
+    width: 400px;
+    height: 930px;
+
+}
+
+.principal{
+    background-color: #a2d2ff;
+    width: 1500px;
+    height: 930px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+
+
+}
+
+h2{
+    font-size: 70px;
+    font-family: 'REVERIE', sans-serif;
+    text-align: center;
+    letter-spacing: 4px;
+
+}
+
+.item{
+    font-size: 30px;
+    font-family: 'Funkie Retro', sans-serif;
+    letter-spacing: 5px;
+    
+}
+
+ul{
+    margin: 20px;
+
+}
+
+.titulo{
+    height: 180px;
+    width: 1450px;
+    background-color: #bde0fe;
+}
+
+.titulo h1{
+color: #0077b6;
+text-align: center;
+font-family: 'REVERIE', sans-serif;;
+font-size: 68px;
+}
+
+.descricao{
+   height: 300px;
+   width: 1450px;
+   background-color: #0096c7;
+
+}
+
+.cards{
+    height: 300px;
+    width: 1450px;
+    background-color: #0077b6;
+}
+

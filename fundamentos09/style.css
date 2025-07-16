@@ -1,0 +1,42 @@
+.principal{
+    display: flex;
+}
+.box-principal{
+   height: 600px;
+   width: 1000px;
+   background-color: #a1cca5;
+   margin: 50px 50px ;
+   border-radius: 20px;
+   border: 2px solid black;
+   h1{
+    font-size: 300px;
+    color: white;
+   }
+}
+.box-azul01{
+    height: 150px;
+    width: 500px;
+    background-color: #415d43;
+    margin: 50px 50px;
+    border: 2px solid black;
+    
+}
+.box-azul02{
+    height: 390px;
+    width: 500px;
+    background-color: #415d43;
+    margin: 50px 50px;
+    border: 2px solid black;
+}
+.bolinhas-azuis{
+    display: flex;
+    margin: 50px 50px;
+    gap: 40px;
+}
+.bolinhas{
+    height: 160px;
+    width: 160px;
+    border-radius: 100px;
+    background-color: #415d43;
+    border: 2px solid black;
+}
